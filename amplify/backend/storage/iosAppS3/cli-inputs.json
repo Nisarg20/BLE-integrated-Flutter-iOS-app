@@ -1,0 +1,14 @@
+{
+  "resourceName": "iosAppS3",
+  "policyUUID": "98b4ce3e",
+  "bucketName": "iosapp",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
